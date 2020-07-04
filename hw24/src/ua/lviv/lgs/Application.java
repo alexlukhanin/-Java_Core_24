@@ -4,17 +4,10 @@
 package ua.lviv.lgs;
 
 import java.util.ArrayList;
-import java.util.Comparator;
-import java.util.Iterator;
+
 import java.util.Map.Entry;
 import java.util.Optional;
 import java.util.Scanner;
-import java.util.TreeMap;
-import java.util.TreeSet;
-
-import javax.print.attribute.standard.Finishings;
-
-
 
 /**
  * @author alexl
